@@ -1,0 +1,3 @@
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen?/cmake-build-debug/CMakeFiles/Practica_4_Examen_.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen?/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen?/cmake-build-debug/CMakeFiles/rebuild_cache.dir
